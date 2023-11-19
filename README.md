@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Degovan](https://www.degovan.com)
-- 🌱 I’m currently learning Kotlin Android, Flutter(dart) in Mobile Development and   **ReactJS**,**TailwindCSS** in Frontend Development 
+- 🌱 I’m currently learning Kotlin Android, Flutter(dart) in Mobile Development and   **ReactJS**, **TailwindCSS** in Frontend Development 
 - 👯 I’m looking to collaborate on Degovan Team
 - 🤔 I’m looking for help with [Stackoverflow](https://stackoverflow.co/)
 - 💬 Contact Me : https://www.nogamuktiwati.com/
