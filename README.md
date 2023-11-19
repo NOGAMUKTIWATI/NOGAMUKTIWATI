@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Kotlin Android, Flutter(dart),  Reactjs, Tailwindcss 
 - 👯 I’m looking to collaborate on Degovan Team
 - 🤔 I’m looking for help with [Stackoverflow](https://stackoverflow.co/)
-- 💬 Ask me about ...
+- 💬 Contact Me : nogamuktiwati.com
 - 📫 How to reach me: nogamuktiwati@gmail.com
 - ⚡ Fun fact: Learning JavaScript and Kotlin language
